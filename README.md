@@ -34,6 +34,7 @@ Website ini terdiri dari 3 halaman utama:
 
 ```text
 profile-kota-sumenep/
+├── BUKTI SS WEB/     # Screenshoot tampilan web
 ├── css/              # File styling (CSS & Bootstrap)
 ├── img/              # Asset gambar tempat wisata & kuliner
 ├── js/               # File JavaScript
